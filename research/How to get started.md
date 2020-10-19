@@ -8,5 +8,5 @@ Here is a place we share jupyter notebook about discoveries(including but not li
 
 ## salim dataset
 
-install via `pip install git+https://github.com/nimmanarati/twint.git` 
-**PR for fixes of errors are pending**
+1. install via `pip install git+https://github.com/nimmanarati/twint.git` 
+2. run `crawl.py`
